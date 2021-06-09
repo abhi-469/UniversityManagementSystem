@@ -2,4 +2,4 @@
 
 Creatred Using Java Swing,JDBC and MySQL
 
-![Login Screen](images/Screenshot (5).png)
+![Login Screen](https://github.com/abhi-469/UniversityManagementSystem/tree/master/images)
